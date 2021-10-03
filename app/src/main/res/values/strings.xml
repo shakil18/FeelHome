@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeelHome</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="shop">Grocery Shop</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="search_hint">Select a Country/Continent</string>
+    <string name="desc_shop">Nearby Grocery Shops</string>
+    <string name="desc_restaurant">Nearby Restaurants</string>
+    <string name="google_maps_key" templateMergesStrategy="preserve" translatable="false">AIzaSyAb6JrlTZjJuXZuYLsnZE2FwYw_0z4V2T8</string>
+</resources>
